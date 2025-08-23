@@ -92,6 +92,13 @@ GOOGL,2800.00,5,NASDAQ,Technology
    - Create a project at [supabase.com](https://supabase.com)
    - Get your project URL and service role key
 
+```
+FMP_API_KEY=
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+SUPABASE_SERVICE_ROLE_KEY=
+```
+
 ## 🛠 Development
 
 - `src/components/*` - React components
