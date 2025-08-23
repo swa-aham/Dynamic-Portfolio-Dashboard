@@ -98,3 +98,10 @@ GOOGL,2800.00,5,NASDAQ,Technology
 - `src/lib/*` - Utility functions and API clients
 - `src/types/*` - TypeScript type definitions
 - `src/backend/*` - Backend services and API handlers
+
+## Images
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image.png)
